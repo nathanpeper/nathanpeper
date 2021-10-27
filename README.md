@@ -8,7 +8,9 @@
 
 <br>
 
-<img align="left" alt="GIF" src="images/iron_man_lab.gif?raw=true" width="570" height="192" />
+<p align="center">
+<img  alt="GIF" src="images/iron_man_lab.gif?raw=true" width="570" height="192" />
+</p>
 
 <br>
 
