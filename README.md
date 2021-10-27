@@ -15,7 +15,7 @@
 <br><br><br>
 
 ## Connect with me
-[<img align="left" alt="linkedin" src="images/linkedin.svg" />](https://www.linkedin.com/in/nathanpeper/)
-[<img align="left" alt="twitter" src="images/twitter.svg" />](https://www.twitter.com/NathanPeper/)
+[<img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nathanpeper/)
+[<img align="left" alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://www.twitter.com/NathanPeper/)
 <br>
 <br>
