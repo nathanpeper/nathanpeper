@@ -6,7 +6,11 @@
 
 <p>I love open-source and collaboration, but more importantly I believe in failing fast and sharing lessons learned. My intentions for my github and my other sites are that I can share lessons from my triumphs and my failures on the journey to becoming the next Iron Man...</p>
 
-<img align="right" alt="GIF" src="images/iron_man_lab.gif?raw=true" width="570" height="192" />
+<br>
+
+<img align="left" alt="GIF" src="images/iron_man_lab.gif?raw=true" width="570" height="192" />
+
+<br>
 
 <p>I am a graduate of the Massachussetts Institute of Technology, where I earned both a <a href="https://aeroastro.mit.edu/" target="_blank" style="color: #2C6BAC; font-weight: bold">Masters of Aeronautics and Astronautics</a> and a <a href="https://mitsloan.mit.edu/" target="_blank" style="color: #2C6BAC; font-weight: bold">Masters of Business Administration</a>. I am also a graduate of the <a href="https://www.westpoint.edu/" target="_blank" style="color: #2C6BAC; font-weight: bold">United States Military Academy</a>, where I earned a Bachelor of Science in Mechanical Engineering with additional focus on Aeronautial Engineering. I'm currently studying at the <a href="https://datascience.berkeley.edu/" target="_blank" style="color: #2C6BAC; font-weight: bold">University of California, Berkeley</a>, toward a Master of Information and Data Science (exp 2021).</p>
 
