@@ -19,7 +19,7 @@
 <br><br>
 <img align="left" alt="United States Military Academy at West Point, NY" src="images/west_point_seal.png" width=60 />
 <img align="left" alt="Massachusetts Institute of Technology" src="images/mit_seal.png" width=60/>
-<img align="left" alt="MIT Aero Astro" src="images/mit_aeroastro_seal.png" width=60/>
+<img align="left" alt="MIT Aero Astro" src="images/mit_aeroastro_seal.png" width=70/>
 <img align="left" alt="MIT Sloan School of Management" src="images/mit_sloan_seal.png" width=60/>
 <img align="left" alt="University of California, Berkeley" src="images/ucb_seal.png" width=60/>
 <br>
