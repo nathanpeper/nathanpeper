@@ -16,11 +16,11 @@
 
 <p>I am a graduate of the Massachussetts Institute of Technology, where I earned both a <a href="https://aeroastro.mit.edu/" target="_blank" style="color: #2C6BAC; font-weight: bold">Masters of Aeronautics and Astronautics</a> and a <a href="https://mitsloan.mit.edu/" target="_blank" style="color: #2C6BAC; font-weight: bold">Masters of Business Administration</a>. I am also a graduate of the <a href="https://www.westpoint.edu/" target="_blank" style="color: #2C6BAC; font-weight: bold">United States Military Academy</a>, where I earned a Bachelor of Science in Mechanical Engineering with additional focus on Aeronautial Engineering. I'm currently studying at the <a href="https://datascience.berkeley.edu/" target="_blank" style="color: #2C6BAC; font-weight: bold">University of California, Berkeley</a>, toward a Master of Information and Data Science (exp 2021).</p>
 
-<br><br>
+<br>
 <img align="left" alt="United States Military Academy at West Point, NY" src="images/west_point_seal.png" width=60 /><img align="left" alt="Massachusetts Institute of Technology" src="images/mit_seal.png" width=60/><img align="left" alt="MIT Aero Astro" src="images/mit_aeroastro_seal.png" width=60/><img align="left" alt="MIT Sloan School of Management" src="images/mit_sloan_seal.png" width=60/><img align="left" alt="University of California, Berkeley" src="images/ucb_seal.png" width=60/>
 <br><br><br>
 
-## Connect with me
+## Let's connect!
 [<img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nathanpeper/)
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://www.twitter.com/NathanPeper/)
 <br>
