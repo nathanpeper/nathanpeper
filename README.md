@@ -14,7 +14,7 @@
 
 <br>
 
-<p>I am a graduate of the Massachussetts Institute of Technology, where I earned both a <a href="https://aeroastro.mit.edu/" target="_blank" style="color: #2C6BAC; font-weight: bold">Master of Science in Aeronautics and Astronautics</a>, with a focus on complex system design, and a <a href="https://mitsloan.mit.edu/" target="_blank" style="color: #2C6BAC; font-weight: bold">Master of Business Administration</a>. WIth the increasing importance and potential for scalable impact of data, analytics, and AI, I also earned a a Master of Information and Data Science from the <a href="https://datascience.berkeley.edu/" target="_blank" style="color: #2C6BAC; font-weight: bold">University of California, Berkeley</a>. I am also a graduate of the <a href="https://www.westpoint.edu/" target="_blank" style="color: #2C6BAC; font-weight: bold">United States Military Academy</a>, where I earned a Bachelor of Science in Mechanical Engineering with additional focus on Aeronautial Engineering.</p>
+<p>I am a graduate of the Massachussetts Institute of Technology, where I earned both a <a href="https://aeroastro.mit.edu/" target="_blank" style="color: #2C6BAC; font-weight: bold">Master of Science in Aeronautics and Astronautics</a>, with a focus on complex system design, and a <a href="https://mitsloan.mit.edu/" target="_blank" style="color: #2C6BAC; font-weight: bold">Master of Business Administration</a>. With the increasing importance and potential for scalable impact of data, analytics, and AI, I also earned a a Master of Information and Data Science from the <a href="https://datascience.berkeley.edu/" target="_blank" style="color: #2C6BAC; font-weight: bold">University of California, Berkeley</a>. I am also a graduate of the <a href="https://www.westpoint.edu/" target="_blank" style="color: #2C6BAC; font-weight: bold">United States Military Academy</a>, where I earned a Bachelor of Science in Mechanical Engineering with additional focus on Aeronautial Engineering.</p>
 
 <br><br>
 [<img align="left" alt="United States Military Academy at West Point, NY" src="images/west_point_seal.png" width=60 />](https://www.westpoint.edu/)
@@ -29,5 +29,6 @@
 ## Let's connect!
 [<img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nathanpeper/)
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://www.twitter.com/NathanPeper/)
+<br>
 <br>
 <br>
