@@ -2,8 +2,6 @@
 
 <p>Welcome to my gihub! My name is Nathan Peper and I love collaborating to pathfind, create, and build things that connect the physical and digital worlds for positive impact.</p> 
 
-<p>I'm currently the Head of Strategy and Business Innovation for the <a href="https://www.intel.com/health" target="_blank" style="color: #2C6BAC; font-weight: bold">Healthcare</a> team at Intel.</p>
-
 <p>I love open-source and collaboration, but more importantly, I believe in failing fast and sharing lessons learned. My intentions for my GitHub and my other sites are that I can share lessons from my triumphs and my failures on the journey to becoming the next Iron Man...</p>
 
 <br>
